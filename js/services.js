@@ -5,6 +5,6 @@ angular.module('app.services', [])
 }])
 
 .service('BlankService', [function(){
-
+//Teste #2
 }]);
 
